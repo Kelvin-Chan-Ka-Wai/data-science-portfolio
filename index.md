@@ -16,6 +16,16 @@ limitations, and a README that lets someone else run the analysis.
 - Email: mc64933@um.edu.mo
 - Course repository: [CISC7204-mc649337-2026GitHub](https://github.com/Kelvin-Chan-Ka-Wai/CISC7204-mc649337-2026GitHub)
 
+## At a glance
+
+| | |
+|---|---|
+| **Project** | Visual analytics of population density, car prices and Olympic performance |
+| **Question** | Can three public datasets - World Bank population density, the 1985 UCI automobile market and Rio 2016 Olympic athletes - be turned into readable interactive Bokeh visualisations, and what do they show? |
+| **Main finding** | Population densities converged (Germany-Switzerland gap 72.7 -> 23.9 people/km2), mean car prices span 5.8x (6,007 -> 34,600 USD), and Olympic medals track delegation size (Pearson r = 0.87). |
+| **Key limitation** | Descriptive associations only: athletes are counted rather than medal events, population data are country-level aggregates, and car prices are unadjusted 1985 USD from a small sample. |
+| **Status** | Completed (October 2026) |
+
 ## Technical skills
 
 | Area | Tools |
