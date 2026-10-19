@@ -13,7 +13,6 @@ reproducible notebooks. I care about the unglamorous parts too: readable axis la
 limitations, and a README that lets someone else run the analysis.
 
 - GitHub: [github.com/Kelvin-Chan-Ka-Wai](https://github.com/Kelvin-Chan-Ka-Wai)
-- Email: mc64933@um.edu.mo
 - Course repository: [CISC7204-mc649337-2026GitHub](https://github.com/Kelvin-Chan-Ka-Wai/CISC7204-mc649337-2026GitHub)
 
 ## At a glance
