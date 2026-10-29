@@ -101,6 +101,7 @@ the repository also has a GitHub Actions workflow that re-runs all three noteboo
 ---
 
 *Built with Jupyter, Bokeh and GitHub Pages. Datasets: World Bank WDI (CC BY 4.0), UCI Machine
-Learning Repository (CC BY 4.0), Rio 2016 Olympic athletes dataset (public). No passwords, API
+Learning Repository (CC BY 4.0), [Rio 2016 Olympic athlete statistics](https://github.com/flother/rio2016) (public source; see repository data notes for redistribution scope). No passwords, API
 keys, personal contact details or restricted datasets appear on this site or in either
-repository.*
+repository. The Olympic source contains public individual athlete records (including names and
+birth dates); the published analysis aggregates those records by country.*
