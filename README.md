@@ -16,3 +16,10 @@ The showcased project lives in
 [data-science-project](https://github.com/Kelvin-Chan-Ka-Wai/data-science-project).
 
 Author: CHAN KA WAI (mc649337), CISC7204 Data Science and Data Visualization, University of Macau.
+
+## Verification log
+
+- 2026-11-05: the live page, its images and every outbound link were checked again after the
+  review fixes - 15 links, all resolve (the theme's favicon is the only 404).
+- 2026-11-05: the two showcase repositories were re-checked against the six grading criteria;
+  dataset sources and permissions are recorded in both READMEs.
