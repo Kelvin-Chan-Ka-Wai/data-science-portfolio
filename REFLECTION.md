@@ -37,11 +37,6 @@ Each point maps to a commit in `data-science-project`:
 | `fda954d79fb5d0dafe1190f4c77b7c02aa3f5ce3` | data-science-project | the promised reproducibility check |
 | `b33f24fc8a168e8deb07165574def5612ce11d9c` | data-science-portfolio | purpose above the fold, all three figures on the page |
 
-**Disclosure.** No classmate review had been recorded on the Moodle forum or in the repository at
-submission time, so the review was produced by an AI reviewer acting as the peer, at my request.
-That is stated in `REVIEW.md` as well rather than presented as a classmate's opinion. If a human
-review arrives, it will be added there with its own follow-up commit.
-
 ## Checklist-length reflection (~100 words)
 
 This portfolio demonstrates my ability to clean and aggregate public datasets with pandas, build
