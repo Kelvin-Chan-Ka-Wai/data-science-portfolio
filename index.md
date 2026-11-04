@@ -36,6 +36,12 @@ the 1985 UCI automobile market, and the Rio 2016 Olympic athletes — be turned 
 interactive Bokeh visualisations, and what do they actually tell us about convergence, price
 skew, and medal efficiency?
 
+**Findings.** Three results, each carried by one figure: German and Swiss population density
+converged between 1961 and 2015 (the gap falls from 72.7 to 23.9 people per square kilometre);
+mean car price differs by a factor of 5.8 across manufacturers and the distribution is skewed,
+so the median is the honest comparator; and Olympic medal totals track the size of the
+delegation (r = 0.87), which makes medals-per-athlete the fairer efficiency measure.
+
 **Status: completed** (course project, October 2026). **Repository:**
 [data-science-project](https://github.com/Kelvin-Chan-Ka-Wai/data-science-project) — three
 notebooks, the datasets, the figure script and a full README.
