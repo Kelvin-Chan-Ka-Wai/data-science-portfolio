@@ -73,3 +73,14 @@ correlation includes an uncertainty range rather than being reported on its own.
 - The population and car analyses are aggregated. The Olympic source contains individual public
   athlete records (name, sex, date of birth, height and weight), not anonymised data; only those
   public fields are retained and the analysis aggregates them by country.
+
+## Declaration of AI usage
+
+Declaration of AI Usage - mc649337 CHAN KA WAI
+Did I use an AI LLM? Yes
+Exact LLM used: DeepSeek-V4.1-Flash
+Web Browser used: Google Chrome
+
+Scope of use: I used DeepSeek-V4.1-Flash as a discussant while planning the page structure,
+checking the figure captions against the computed numbers, and drafting the review response
+table. The analysis, the notebooks, the figures and the conclusions are my own work.
